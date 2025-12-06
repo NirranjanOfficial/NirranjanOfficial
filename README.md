@@ -1,4 +1,4 @@
-<h2>Hey there, I’m Nirranjan 👋 Robotics and AI enthusiast currently deep in the world of UAVs — yes, the flying kind. I build drones that (hopefully) don’t crash and explore tech that makes machines a little smarter every day. Tinkering with hardware, writing code that works (most of the time), and diving into new tech just for fun... or because I broke something and now have to fix it.  Always learning, occasionally succeeding, and constantly pushing the boundaries of what a curious mind can build. </h2>
+<h3>Hey there, I’m Nirranjan 👋 Robotics and AI enthusiast currently deep in the world of UAVs — yes, the flying kind. I build drones that (hopefully) don’t crash and explore tech that makes machines a little smarter every day. Tinkering with hardware, writing code that works (most of the time), and diving into new tech just for fun... or because I broke something and now have to fix it.  Always learning, occasionally succeeding, and constantly pushing the boundaries of what a curious mind can build. </h3>
 <p>A passionate Robotics & AI person.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
